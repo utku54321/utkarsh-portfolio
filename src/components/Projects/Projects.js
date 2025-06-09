@@ -36,20 +36,20 @@ function Projects() {
               title="Report Files"
               description="Access my detailed reports and case studies."
               files={[
-                { name: "Business Plan BECO", path: "/projects/report_files/business_plan_BECO.docx" },
-                { name: "Marketing Rolls Royce", path: "/projects/report_files/marketing_rolls_royce.docx" },
-                { name: "BluSmart Business Plan", path: "/projects/report_files/BluSmart_Business_Plan.docx" },
-                { name: "RAC Report Car 24", path: "/projects/report_files/RAC_Report_Car_24.docx" },
-                { name: "LT 9 DeHaat CAPSTONE PROJECT", path: "/projects/report_files/LT9_DeHaat_CAPSTONE_PROJECT.pdf" },
-                { name: "ML Comprehensive Analysis", path: "/projects/report_files/ML_comprehensive_business_analysis_report.pdf" },
-                { name: "Recruitment and Training Report", path: "/projects/report_files/Recruitment_and_Training_Development_Practices.pdf" },
-                { name: "Operation Management Report", path: "/projects/report_files/Operation_Management_Report_Lean_Manufacturing.docx" },
+                { name: "Business Plan BECO", path: "/projects/report_files/business plan BECO.docx" },
+                { name: "Marketing Rolls Royce", path: "/projects/report_files/marketing rolls royce.docx" },
+                { name: "BluSmart Business Plan", path: "/projects/report_files/BluSmart Business Plan.docx" },
+                { name: "RAC Report Car 24", path: "/projects/report_files/RAC Report Car 24.docx" },
+                { name: "LT 9 DeHaat CAPSTONE PROJECT", path: "/projects/report_files/LT 9 DeHaat CAPSTONE PROJECT.pdf" },
+                { name: "ML Comprehensive Analysis", path: "/projects/report_files/ML comprehensive business analysis report.pdf" },
+                { name: "Recruitment and Training Report", path: "/projects/report_files/Recruitment and Training & Development Practices at Cars24.pdf" },
+                { name: "Operation Management Report", path: "/projects/report_files/Operation Management Report Lean Manufacturing.docx" },
                 { name: "Marketing Plan for Khadim", path: "/projects/report_files/Marketing_Plan_for_Khadim_Formatted_v2.docx" },
-                { name: "Swiggy Team Report", path: "/projects/report_files/swiggy_team_report.pdf" },
-                { name: "Data Analytics using Python", path: "/projects/report_files/Data_Analytics_using_Python.docx" },
-                { name: "BRM Group Research Report", path: "/projects/report_files/BRM_GROUP_RESEARCH_REPORT.pdf" },
-                { name: "Article on Quality Education", path: "/projects/report_files/AN_ARTICLE_ON_QUALITY_EDUCATION.pdf" },
-                { name: "A Report on Diversity", path: "/projects/report_files/A_REPORT_ON_DIVERSITY.docx" },
+                { name: "Swiggy Team Report", path: "/projects/report_files/swiggy team report.pdf" },
+                { name: "Data Analytics using Python", path: "/projects/report_files/Data Analytics using Python.docx" },
+                { name: "BRM Group Research Report", path: "/projects/report_files/BRM GROUP RESEARCH REPORT.pdf" },
+                { name: "Article on Quality Education", path: "/projects/report_files/AN ARTICLE ON QUALITY EDUCATION[1].docx" },
+                { name: "A Report on Diversity", path: "/projects/report_files/A REPORT ON DIVERSITY.docx" },
               ]}
             />
           </Col>
@@ -61,20 +61,20 @@ function Projects() {
               title="PPT Files"
               description="Explore presentations on key topics."
               files={[
-                { name: "Swiggy Health Bites", path: "/projects/ppt_files/presenatation_amm_swiggy_health_bites.pptx" },
-                { name: "Driving Luxury - Rolls-Royce", path: "/projects/ppt_files/Driving_Luxury_A_Deep_Dive_into_Rolls-Royce.pptx" },
-                { name: "Oracle Product Insights", path: "/projects/ppt_files/Oracle_Product_Manager_Insights.pptx" },
-                { name: "Nexora Solutions HCM", path: "/projects/ppt_files/Nexora_Solutions_HCM.pptx" },
-                { name: "Field Project PPT - Recruitment & Training", path: "/projects/ppt_files/FIELD_PROJECT_PPT_Recruitment_and_Training.pptx" },
-                { name: "Python PPT", path: "/projects/ppt_files/python_ppt.pptx" },
-                { name: "Consumer Decision-Making Analysis", path: "/projects/ppt_files/Consumer_Decision-Making_Analysis.pptx" },
-                { name: "CARS24 RAC", path: "/projects/ppt_files/CARS24_RAC.pptx" },
-                { name: "BRM PPT", path: "/projects/ppt_files/BRM_PPT.pptx" },
-                { name: "Article on Quality Education", path: "/projects/ppt_files/AN_ARTICLE_ON_QUALITY_EDUCATION.pptx" },
-                { name: "FSA PPT ON MOTILAL", path: "/projects/ppt_files/FSA_PPT_ON_MOTILAL.pdf" },
-                { name: "UTKARSH ANAND 24PGDM146", path: "/projects/ppt_files/UTKARSH_ANAND_24PGDM146.pptx" },
-                { name: "Global Shipping Challenges", path: "/projects/ppt_files/Operational_Challenges_in_the_Global_Shipping.pptx" },
-                { name: "Service Costs in Transport", path: "/projects/ppt_files/Comparative_Analysis_of_Service_Costs_in_the_Transport.pptx" },
+                { name: "Swiggy Health Bites", path: "/projects/ppt_files/presenatation amm swiggy health bites.pptx" },
+                { name: "Driving Luxury - Rolls-Royce", path: "/projects/ppt_files/Driving Luxury A Deep Dive into Rolls-Royce’s STP Framework.pptx" },
+                { name: "Oracle Product Insights", path: "/projects/ppt_files/Oracle_Product_Manager_Insights[1].pptx" },
+                { name: "Nexora Solutions HCM", path: "/projects/ppt_files/Nexora Solutions, HCM.pptx" },
+                { name: "Field Project PPT - Recruitment & Training", path: "/projects/ppt_files/FIELD PROJECT PPT Recruitment and Training & Development Practices at Cars24.pptx" },
+                { name: "Python PPT", path: "/projects/ppt_files/python ppt.pptx" },
+                { name: "Consumer Decision-Making Analysis", path: "/projects/ppt_files/Consumer Decision-Making Analysis.pptx" },
+                { name: "CARS24 RAC", path: "/projects/ppt_files/CARS24 RAC.pptx" },
+                { name: "BRM PPT", path: "/projects/ppt_files/BRM PPT.pptx" },
+                { name: "Article on Quality Education", path: "/projects/ppt_files/AN ARTICLE ON QUALITY EDUCATION.pptx" },
+                { name: "FSA PPT ON MOTILAL", path: "/projects/ppt_files/FSA PPT ON MOTILAL.pdf" },
+                { name: "UTKARSH ANAND 24PGDM146", path: "/projects/ppt_files/UTKARSH ANAND 24PGDM146.pptx" },
+                { name: "Global Shipping Challenges", path: "/projects/ppt_files/Operational-Challenges-in-the-Global-Shipping-Industry-A-Case-Study-of-Maersk.pptx" },
+                { name: "Service Costs in Transport", path: "/projects/ppt_files/Comparative-Analysis-of-Service-Costs-in-the-Telecom-Sector.pptx" },
               ]}
             />
           </Col>
@@ -86,27 +86,27 @@ function Projects() {
               title="Financial Data"
               description="Excel sheets with financial data insights."
               files={[
-                { name: "CF WAAC COD ETC", path: "/projects/excel_files/CF_WAAC_COD_ETC.xlsx" },
-                { name: "FSA MOTILAL", path: "/projects/excel_files/FSA_MOTILAL.xlsx" },
-                { name: "FSA THREE TIER COMPANY COMPARISION", path: "/projects/excel_files/FSA_THREE_TIER_COMPANY_COMPARISION.xlsx" },
-                { name: "FSA INFOSYS", path: "/projects/excel_files/FSA_INFOSYS.xlsx" },
-                { name: "CF ASSIGNMENT", path: "/projects/excel_files/CF_ASSIGNMENT.xlsx" },
-                { name: "JSW DATA WITH DUO POINT", path: "/projects/excel_files/JSW_DATA_WITH_DUO_POINT.xlsx" },
-                { name: "FSA SCENERIO ANALYSIS", path: "/projects/excel_files/FSA_SCENERIO_ANALYSIS.xlsx" },
-                { name: "FSA FMCG COMPANY", path: "/projects/excel_files/FSA_FMCG_COMPANY.xlsx" },
-                { name: "TATA INVESTMENT DATA", path: "/projects/excel_files/TATA_INVESTMENT_DATA.xlsx" },
-                { name: "FSA 1 ADANI", path: "/projects/excel_files/FSA_1_ADANI.xlsx" },
-                { name: "FINAL Reliance Industries Limited", path: "/projects/excel_files/FINAL_Reliance_Industries_Limited.xlsx" },
-                { name: "FSA LEARNING KPI's", path: "/projects/excel_files/FSA_LEARNING_KPIs.xlsx" },
-                { name: "Dashboard of Financial Statement", path: "/projects/excel_files/dashboard_of_financial_statement.xlsx" },
-                { name: "SADM Dashboard", path: "/projects/excel_files/sadm_dashboard.xlsx" },
-                { name: "Excel Dashboard 2", path: "/projects/excel_files/EXCEL_DASHBOARD_2.xlsx" },
-                { name: "Excel Dashboard", path: "/projects/excel_files/EXCEL_DASHBOARD.xlsx" },
-                { name: "Sales Report Dashboard", path: "/projects/excel_files/sales_report_dashboard.xlsx" },
-                { name: "Tata Elxsi Financial Data", path: "/projects/excel_files/tata_elxsi_financial_data.xlsx" },
-                { name: "LTI Mindtree", path: "/projects/excel_files/LTI_Mindtree.xlsx" },
-                { name: "ITC Financial Data", path: "/projects/excel_files/ITC_FINANCIAL_DATA.xlsx" },
-                { name: "Nestle Dashboard Financial Data", path: "/projects/excel_files/nestle_dashboard_financial_data.xlsx" },
+                { name: "CF WAAC COD ETC", path: "/projects/excel_files/CF WAAC COD ETC.xlsx" },
+                { name: "FSA MOTILAL", path: "/projects/excel_files/FSA MOTILAL.xlsx" },
+                { name: "FSA THREE TIER COMPANY COMPARISION", path: "/projects/excel_files/FSA THREE TIER COMPANY COMPARISION.xlsx" },
+                { name: "FSA INFOSYS", path: "/projects/excel_files/FSA INFOSYS.xlsx" },
+                { name: "CF ASSIGNMENT", path: "/projects/excel_files/CF ASSIGNMENT.xlsx" },
+                { name: "JSW DATA WITH DUO POINT", path: "/projects/excel_files/JSW DATA WITH DUO POINT.xlsx" },
+                { name: "FSA SCENERIO ANALYSIS", path: "/projects/excel_files/FSA SCENERIO ANALYSIS.xlsx" },
+                { name: "FSA FMCG COMPANY", path: "/projects/excel_files/FSA  FMCG COMPANY.xlsx" },
+                { name: "TATA INVESTMENT DATA", path: "/projects/excel_files/TATA INVESTMENT DATA.xlsx" },
+                { name: "FSA 1 ADANI", path: "/projects/excel_files/FSA 1 ADANI.xlsx" },
+                { name: "FINAL Reliance Industries Limited", path: "/projects/excel_files/FINAL Reliance Industries Limited.xlsx" },
+                { name: "FSA LEARNING KPI's", path: "/projects/excel_files/FSA_LEARNING KPI's.xlsx" },
+                { name: "Dashboard of Financial Statement", path: "/projects/excel_files/dashboard of financial statement.xlsx" },
+                { name: "SADM Dashboard", path: "/projects/excel_files/sadm dashboard.xlsx" },
+                { name: "Excel Dashboard 2", path: "/projects/excel_files/EXCEL DASHBOARD 2.xlsx" },
+                { name: "Excel Dashboard", path: "/projects/excel_files/EXCEL DASHBOARD.xlsx" },
+                { name: "Sales Report Dashboard", path: "/projects/excel_files/sales report dashboard.xlsx" },
+                { name: "Tata Elxsi Financial Data", path: "/projects/excel_files/tata elxsi financial data.xlsx" },
+                { name: "LTI Mindtree", path: "/projects/excel_files/LTI Mindtree.xlsx" },
+                { name: "ITC Financial Data", path: "/projects/excel_files/ITC FINANCIAL DATA.xlsx" },
+                { name: "Nestle Dashboard Financial Data", path: "/projects/excel_files/nestle dashboard financial data.xlsx" },
               ]}
             />
           </Col>
@@ -118,12 +118,12 @@ function Projects() {
               title="Power BI Files"
               description="Interactive Power BI dashboards and reports."
               files={[
-                { name: "1st Dashboard", path: "/projects/powerBI_file/1st_dashboard.pbix" },
-                { name: "2nd Dashboard", path: "/projects/powerBI_file/2nd_dashboard.pbix" },
-                { name: "3rd Dashboard", path: "/projects/powerBI_file/3rd_dashboard.pbix" },
-                { name: "4th Dashboard", path: "/projects/powerBI_file/4th_dashboard.pbix" },
-                { name: "5th Dashboard", path: "/projects/powerBI_file/5th_dashboard.pbix" },
-                { name: "6th Dashboard", path: "/projects/powerBI_file/6th_dashboard.pbix" },
+                { name: "1st Dashboard", path: "/projects/powerBI_file/1st dashboard.pbix" },
+                { name: "2nd Dashboard", path: "/projects/powerBI_file/2nd dashboard.pbix" },
+                { name: "3rd Dashboard", path: "/projects/powerBI_file/3RD DASHBOARD.pbix" },
+                { name: "4th Dashboard", path: "/projects/powerBI_file/4th dashboard.pbix" },
+                { name: "5th Dashboard", path: "/projects/powerBI_file/5th dashboard.pbix" },
+                { name: "6th Dashboard", path: "/projects/powerBI_file/6th dashboard.pbix" },
               ]}
             />
           </Col>
